@@ -1,0 +1,54 @@
+.blue{
+    background: dodgerblue;
+    color: deepskyblue;
+}
+
+.orange{
+    background: darkorange;
+    color: orange;
+}
+
+.gold{
+    background: gold;
+    color: gold;
+}
+
+.red{
+    background: red;
+    color: red;
+}
+
+.purple{
+    background: mediumpurple;
+    color: slategray;
+}
+
+.green{
+    background: yellowgreen;
+    color: darkslategray;
+}
+
+.crimson{
+    background: crimson;
+    color: firebrick;
+}
+
+.steel{
+    background: steelblue;
+    color: gold;
+}
+
+.pink{
+    background: hotpink;
+    color: palevioletred;
+}
+
+.rebecca{
+    background: rebeccapurple;
+    color: rebeccapurple;
+}
+
+.gainsboro{
+    background: gainsboro;
+    color: orangered;
+}
